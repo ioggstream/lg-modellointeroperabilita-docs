@@ -47,13 +47,12 @@ di servizio per la ricezione delle risposte.
 Descrizione
 ~~~~~~~~~~~
 
-.. image:: ../media/interazione_2.png
+.. figure:: ../media/interazione_2.png
    :align: center
-   :scale: 50 %
+   
+   Interazione non bloccante tramite callback
 
-**Figura 2.** Interazione non bloccante tramite callback
-
-In questo scenario (vedi Figura 2), la richiesta del fruitore contiene
+In questo scenario (vedi figura), la richiesta del fruitore contiene
 un riferimento al servizio da chiamare al momento della risposta. Si
 suppone infatti che i fruitori espongano a loro volta delle interfacce
 con segnatura standard. Al momento del ricevimento della richiesta
@@ -719,11 +718,10 @@ Descrizione
 
 .. image:: ../media/interazione_3.png
    :align: center
-   :scale: 50 %
 
-**Figura 3.** Interazione non bloccante tramite busy waiting
+   Interazione non bloccante tramite busy waiting
 
-Come si può vedere in Figura 3, il fruitore invia una richiesta (passo
+Come si può vedere in figura, il fruitore invia una richiesta (passo
 (1)) e riceve immediatamente dall’erogatore un messaggio di avvenuta
 ricezione insieme ad un indirizzo presso il quale verificare lo stato
 del processamento (caso REST) oppure un correlation ID (caso SOAP)

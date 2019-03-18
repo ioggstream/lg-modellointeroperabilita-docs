@@ -52,8 +52,9 @@ remoto, e si parla di Remote Method Invocation - RMI.
 RPC/RMI è il meccanismo base con cui realizzare una interazione       
 bloccante.                                                            
 
-**Observer/observable, interfaccia listener e notifica tramite        
-Callback**                                                            
+------------
+
+**Observer/observable, interfaccia listener e notifica tramite Callback**                                                            
                                                                       
 In un framework di programmazione, *observer/observable* è uno schema 
 di organizzazione dei moduli in cui un modulo (l’*observable*) offre  
@@ -281,7 +282,7 @@ applicativo (o da più programmi applicativi) scritto in un
 linguaggio di programmazione orientato agli oggetti, in particolare 
 perché gli oggetti o le definizioni di classe devono essere         
 associati a tabelle di database definite da uno schema relazionale. 
-Nel ModI 2018 ci sono casi di impedance mismatch quando             
+Nel ModI ci sono casi di impedance mismatch quando             
 un’interfaccia di servizio progettata secondo lo stile RPC-like     
 deve essere realizzata in REST.                                     
 
