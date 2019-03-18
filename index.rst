@@ -17,9 +17,13 @@ Vai al testo delle linee guida:
 .. toctree::
    doc/istruzioni_consultazione
 
+Indice generale del documento
+
 .. toctree::
    :numbered:
    :maxdepth: 2
 
    doc/doc_01_cap_00
    doc/doc_02_cap_00
+   doc/doc_03_cap_00
+   doc/doc_04_cap_00
