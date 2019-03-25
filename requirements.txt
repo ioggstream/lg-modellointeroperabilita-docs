@@ -1,3 +1,4 @@
 git+https://github.com/italia/docs-italia-theme.git
 git+https://github.com/pdavide/sphinxcontrib-discourse
 doc8
+sphinx

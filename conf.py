@@ -99,7 +99,7 @@ language = 'it'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.DS_Store', 'README', 'README.md', '.venv*']
+exclude_patterns = ['.DS_Store', 'README', 'README.md', '.venv*', '.tox']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
