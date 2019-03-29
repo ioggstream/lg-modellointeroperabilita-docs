@@ -1,22 +1,13 @@
 
 # Modalità di interazione, profili, casi d`uso e tecnologie
 
-
-
 Il terzo documento del Modello di Interoperabilità 2018, così come introdotto
-nella Visione
+nella Visione generale, fornisce indicazioni concrete, a livello tecnico, su differenti
+modalità operative per realizzare l'interoperabilità, tenendo conto delle possibili tecnologie ed
+approcci disponibili.
 
-generale, fornisce indicazioni concrete, a livello tecnico, su differenti
-modalità operative
-
-per realizzare l'interoperabilità, tenendo conto delle possibili tecnologie ed
-approcci
-
-disponibili. Questa versione si focalizza prevalentemente sulle modalità
-sincrone ed
-
-asincrone (basate su scambio di messaggi) e sulle tecnologie basate su SOAP e
-REST.
+Questa versione si focalizza prevalentemente sulle modalità sincrone ed asincrone
+ (basate su scambio di messaggi) e sulle tecnologie basate su SOAP e REST.
 
 
 
